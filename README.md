@@ -1,1 +1,3 @@
 # Data_Science_Final_Project
+
+Develop a comprehensive system that combines classification prediction models, image processing techniques, and text processing for a holistic understanding of customer behavior. Utilize algorithms such as Decision Tree, Logistic Regression, and Random Forest for customer behavior analysis. Incorporate image processing techniques like EasyOCR and Python Imaging Library (PIL) to extract information and identify objects from images. Implement sentiment analysis using NLTK for text-based data. Finally, build a product recommendation system using NLTK techniques to enhance personalized product suggestions for users based on their behavior and preferences.
